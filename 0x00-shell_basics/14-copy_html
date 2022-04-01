@@ -4,3 +4,5 @@ cp -u *.html ../
 =======
 mv [A-Z]* /tmp/u
 >>>>>>> ab69ce0f7a488d8b631fa837c19f63b5eb4836a0
+#!/bin/bash
+cp -u *.html ../
